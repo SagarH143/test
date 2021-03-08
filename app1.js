@@ -4,5 +4,4 @@ const sagar=()=>{
     console.log('hi i am  sagar ');
     console.log('hi am there for u');
     
-    
 }
