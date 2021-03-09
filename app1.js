@@ -3,5 +3,6 @@ const sagar=()=>{
     console.log('yes we are ');
     console.log('hi i am  sagar ');
   console.log('hi');
+  console.log('hello');
     
 }
